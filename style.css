@@ -1,0 +1,12 @@
+h1{
+    color:aqua
+}
+*{
+    border:solid
+    
+}
+.games{
+     display:flex;
+     flex-direction:row;
+     justify-content:space-evenly;
+}
